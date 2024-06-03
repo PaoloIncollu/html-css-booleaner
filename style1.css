@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    
 }
 .sfondo-intestazione{
     
@@ -12,9 +13,9 @@
 }
 .logo{
    
-    width: 150px;
+    width: 200px;
     height: auto;
-    padding-top: 40px;
+    padding-top: 30px;
     padding-left: 10px;
 
 }
@@ -28,6 +29,7 @@ h1{
     margin-top: 0;
     color: grey;
 }
+
 #autore-articolo{
     
     text-decoration: none;
@@ -52,23 +54,36 @@ h1{
 
 .foto-tim img{
     
-    width: 50vw;
-    height:40vh;
+    width: 100vw;
     
 }
 
+#foto1{
 
+    width: 50vw;
+    height: 30vh;
+}
+
+#foto2{
+
+    width: 45vw;
+    height: 30vh;
+    padding-left: 20px;
+    
+}
 
 .info-foto-tim{
 
     display: inline-block;
-    font-size: 10px;
+    font-size: 15px;
 
 }
 .sfondo-testo{
 
     background-color: yellow;
+
 }
+
 
 table{
 
@@ -76,7 +91,6 @@ table{
     border-collapse: collapse;
     margin-top: 20px, 0, 20px, 0;
     
-
 }
 
 .intestazione-tabella{
@@ -97,4 +111,29 @@ th, td{
 
 h4{
     color: grey;
+}
+
+.monitor{
+    background-image: url(./img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40vw;
+    height: 20vh;
+}
+
+.graph{
+    background-image: url(./img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40vw;
+    height: 20vh;
+}
+
+.nome-foto{
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+    
 }
