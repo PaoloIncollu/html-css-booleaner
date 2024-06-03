@@ -61,13 +61,13 @@ h1{
 #foto1{
 
     width: 50vw;
-    height: 30vh;
+    height: 50vh;
 }
 
 #foto2{
 
     width: 45vw;
-    height: 30vh;
+    height: 50vh;
     padding-left: 20px;
     
 }
@@ -130,7 +130,7 @@ h4{
 }
 
 .nome-foto{
-    font-size: 30px;
+    font-size: 20px;
     color: white;
     padding-top: 10px;
     padding-left: 20px;
