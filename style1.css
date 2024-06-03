@@ -34,26 +34,30 @@ h1{
 
 }
 
-.foto-tim{
+.fotos-tim{
     
-    float: left;
-    width: calc(100% / 2);
-    max-height: 100%;
-    
-}
-
-
-.foto-tim img{
-
-    width:100%;
-    
-}
-
-.foto-tim img{
-    
+    position: relative;
     width: 100%;
     
+    
 }
+
+.foto-tim{
+    
+   width: calc(100% / 2);
+   float: left;
+   
+
+}
+
+.foto-tim img{
+    
+    width: 50vw;
+    height:40vh;
+    
+}
+
+
 
 .info-foto-tim{
 
