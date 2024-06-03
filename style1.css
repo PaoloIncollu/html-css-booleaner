@@ -1,0 +1,34 @@
+
+.sfondo-intestazione{
+    
+    background-image: url(./img/pattern.png);
+    background-color: lightskyblue;
+    background-size: contain;
+    width: 100%;
+    height: 80px;
+    
+}
+.logo{
+   
+    width: 150px;
+    height: auto;
+    padding-top: 40px;
+    padding-left: 10px;
+
+}
+
+h1{
+    margin-bottom: 0;
+}
+#info-articolo{
+    margin-top: 0;
+    color: grey;
+}
+#autore-articolo{
+    
+    text-decoration: none;
+
+}
+.info-foto-tim{
+    font-size: 10px;
+}
