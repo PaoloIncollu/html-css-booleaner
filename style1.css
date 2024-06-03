@@ -18,8 +18,10 @@
 }
 
 h1{
+    width: 100%;
     margin-bottom: 0;
 }
+
 #info-articolo{
     margin-top: 0;
     color: grey;
@@ -31,4 +33,31 @@ h1{
 }
 .info-foto-tim{
     font-size: 10px;
+}
+.sfondo-testo{
+
+    background-color: yellow;
+}
+
+table{
+
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.intestazione-tabella{
+
+    text-align: left;
+    background-color:blue;
+    color: white;
+
+}
+
+.riga-colorata{
+
+    background-color: lightblue;
+}
+th, td{
+    width: 10px;
 }
